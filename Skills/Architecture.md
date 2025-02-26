@@ -29,7 +29,7 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer ~
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach

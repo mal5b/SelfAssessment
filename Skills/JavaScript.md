@@ -59,10 +59,10 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` +
-  - `while` +
+  - `if`: 🎓 known
+  - `while`: 🎓 known
   - `do..while`
-  - `for` +
+  - `for`: 🎓 known
   - `for..in`
   - `for..of`
   - `for await`
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm +
+  - npm: 🎓 known
   - prettier
   - MDN
   - TC39

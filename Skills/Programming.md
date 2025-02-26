@@ -4,24 +4,24 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm +
-  - Syntax +
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
-  - Abstraction +
-  - Paradigm +
-  - Programm +
+  - Abstraction: 🎓 known
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract
-  - Module +
-  - Library +
-  - Package +
-  - Component +
-  - Framework +
-  - Platform +
-  - Source code +
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 🎓 known
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
-  - Machine code +
+  - Machine code: 🎓 known
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,35 +32,35 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value +
-  - Identifier +
-  - Variable +
-  - Constant +
-  - Scalar +
-  - Literal +
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
   - Expression
   - Heap
-  - Function +
-  - Procedure +
+  - Function: 🎓 known
+  - Procedure: 🎓 known
   - Method
-  - Class +
+  - Class: 🎓 known
   - Prototype
   - Event
-  - Type +
-  - Flag +
+  - Type: 🎓 known
+  - Flag: 🎓 known
   - Lexical scope
-  - Code block +
+  - Code block: 🎓 known
   - Conditions
-  - Loops +
+  - Loops: 🎓 known
   - Assignment
   - Regular expression
-  - Interface +
+  - Interface: 🎓 known
   - Namespaces
-  - Call stack +
+  - Call stack: 🎓 known
   - Naming conventions
   - Coding conventions
-  - Camel case +
-  - Snake case +
+  - Camel case: 🎓 known
+  - Snake case: 🎓 known
   - Kebab case
   - Trailing commas
   - Return early
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument +
-  - Parameter +
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
@@ -91,7 +91,7 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion +
+  - Recursion: 🎓 known
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,25 +105,25 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array +
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
   - Object
   - Collection
-  - Set +
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue +
-  - Stack +
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree +
-  - Graph +
-  - Iterator +
+  - Tree: 🎓 known
+  - Graph: 🎓 known
+  - Iterator: 🎓 known
   - Mutable state
   - Immutable state
   - Serialization
@@ -132,17 +132,17 @@
   - JSON5
   - YAML
 - Networking
-  - DNS +
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4 +
+  - IPv4: 🎓 known
   - IPv6
-  - NAT +
-  - URL +
+  - NAT: 🎓 known
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler +
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -164,12 +164,12 @@
   - Code review
   - Exception
   - Unittesting
-  - git +
-  - Github +
-  - Docker +
-  - Kubernetes ~
+  - git: 🎓 known
+  - Github: 🎓 known
+  - Docker: 🎓 known
+  - Kubernetes: 👂 heard
   - GCC
-  - LLVM ~
+  - LLVM: 👂 heard
 - Antipatterns
   - Magic numbers
   - Hard code
@@ -208,17 +208,17 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts +
+  - Interrupts: 🎓 known
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory +
-  - File system +
-  - Linux +
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS +
-  - Windows +
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
