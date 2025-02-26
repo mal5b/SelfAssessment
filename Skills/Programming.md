@@ -32,35 +32,35 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
+  - Scalar +
+  - Literal +
   - Expression
   - Heap
-  - Function
-  - Procedure
+  - Function +
+  - Procedure +
   - Method
-  - Class
+  - Class +
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type +
+  - Flag +
   - Lexical scope
-  - Code block
-  - Conditions
+  - Code block +
+  - Conditions +
   - Loops
   - Assignment
   - Regular expression
-  - Interface
+  - Interface +
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case +
+  - Snake case +
   - Kebab case
   - Trailing commas
   - Return early
@@ -118,27 +118,27 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue +
+  - Stack +
   - Deque
-  - Tree
-  - Graph
+  - Tree +
+  - Graph +
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing +
+  - JSON +
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS +
   - CDN
   - CORS
-  - IPv4
+  - IPv4 +
   - IPv6
   - NAT
-  - URL
+  - URL +
   - URN
   - URI
 - Process and tools
@@ -164,12 +164,12 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git +
+  - Github +
   - Docker
   - Kubernetes
   - GCC
-  - LLVM
+  - LLVM +
 - Antipatterns
   - Magic numbers
   - Hard code
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system +
+  - Linux +
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS +
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards
@@ -235,5 +235,5 @@
   - MIME
   - OWASP
   - UTF-8
-  - W3C
+  - W3C +
   - ODMG
