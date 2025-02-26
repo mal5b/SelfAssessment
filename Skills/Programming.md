@@ -4,24 +4,24 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm +
+  - Syntax +
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Abstraction +
+  - Paradigm +
+  - Programm +
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Module +
+  - Library +
+  - Package +
+  - Component +
+  - Framework +
+  - Platform +
+  - Source code +
   - Object code
-  - Machine code
+  - Machine code +
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,35 +32,35 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
+  - Scalar +
+  - Literal +
   - Expression
   - Heap
-  - Function
-  - Procedure
+  - Function +
+  - Procedure +
   - Method
-  - Class
+  - Class +
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type +
+  - Flag +
   - Lexical scope
-  - Code block
+  - Code block +
   - Conditions
-  - Loops
+  - Loops +
   - Assignment
   - Regular expression
-  - Interface
+  - Interface +
   - Namespaces
-  - Call stack
+  - Call stack +
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case +
+  - Snake case +
   - Kebab case
   - Trailing commas
   - Return early
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument +
+  - Parameter +
   - Pure function
   - Lambda expression
   - Side effects
@@ -91,7 +91,7 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion +
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,25 +105,25 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array +
   - Structure
   - Record
   - Enum
   - Instance
   - Object
   - Collection
-  - Set
+  - Set +
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue +
+  - Stack +
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree +
+  - Graph +
+  - Iterator +
   - Mutable state
   - Immutable state
   - Serialization
@@ -132,17 +132,17 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS +
   - CDN
   - CORS
-  - IPv4
+  - IPv4 +
   - IPv6
-  - NAT
-  - URL
+  - NAT +
+  - URL +
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -164,12 +164,12 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - git +
+  - Github +
+  - Docker +
+  - Kubernetes ~
   - GCC
-  - LLVM
+  - LLVM ~
 - Antipatterns
   - Magic numbers
   - Hard code
@@ -208,17 +208,17 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
+  - Interrupts +
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory +
+  - File system +
+  - Linux +
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS +
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards

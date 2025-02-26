@@ -3,16 +3,16 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
+  - Structured programming ~
   - Non-structured programming
-  - Functional programming
+  - Functional programming ~
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming ~
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming ~
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -21,13 +21,13 @@
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box +
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor +
   - Operator `new`
   - Static method
   - Method

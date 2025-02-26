@@ -63,13 +63,13 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates +
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
   - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - TCP/SSL +
+  - UDP +
   - TLS
   - Websocket
   - SSE
@@ -83,7 +83,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS +
   - SQL injection
   - noDelay
   - keep-alive
@@ -91,7 +91,7 @@
 - Technique and tools
   - Native test runner
   - Logging
-  - Application configuring
+  - Application configuring +
   - Testing
   - CI/CD
   - Readable
@@ -100,7 +100,7 @@
   - Back pressure
   - Buffer
   - Console
-  - Inspector
+  - Inspector +
 - Data access
   - Data access layer
   - Repository

@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types +
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases +
   - Key-value store
   - Tuple store
   - Graph databases
@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing +
   - Primary keys
   - Foreign keys
   - Transactions
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT` +
+  - `INSERT` +
   - `UPDATE`
-  - `DELETE`
+  - `DELETE` +
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` +
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`

@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks ~
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -37,7 +37,7 @@
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility ~
   - Middleware
   - Locks
 - Async adapters and utils
