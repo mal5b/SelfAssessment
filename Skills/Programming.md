@@ -33,8 +33,8 @@
   - KISS principle
 - Syntax and concepts
   - Value: 🎓 known
-  - Identifier: 🎓 known
-  - Variable: 🎓 known
+  - Identifier: *
+  - Variable: *
   - Constant: 🎓 known
   - Scalar: 🎓 known
   - Literal: 🎓 known
