@@ -9,7 +9,7 @@
   - Semantics
   - Abstraction: 🎓 known
   - Paradigm: 🎓 known
-  - Programm: 🎓 known
+  - Programm: *
   - Programming paradigm
   - Programming language
   - Contract
@@ -35,7 +35,7 @@
   - Value: 🎓 known
   - Identifier: *
   - Variable: *
-  - Constant: 🎓 known
+  - Constant: *
   - Scalar: 🎓 known
   - Literal: 🎓 known
   - Expression
@@ -52,14 +52,14 @@
   - Code block: 🎓 known
   - Conditions
   - Loops: 🎓 known
-  - Assignment
+  - Assignment *
   - Regular expression
   - Interface: 🎓 known
   - Namespaces
   - Call stack: 🎓 known
   - Naming conventions
   - Coding conventions
-  - Camel case: 🎓 known
+  - Camel case: *
   - Snake case: 🎓 known
   - Kebab case
   - Trailing commas
@@ -75,7 +75,7 @@
   - Static typing
   - Dynamic typing
   - Nominal typing
-  - Structural typing
+  - Structural typing *
   - Explicit typing
   - Type inference
   - Covariance
